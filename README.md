@@ -10,6 +10,7 @@ A command‑line utility to adjust settings on **Glorious Model O/D** (and lik
 - RGB lighting (effects, colors, brightness)
 - Liftoff distance *(supported)*
 - (Possibly more — depending on firmware)
+- shows battery status for wireless model o v1
 
 This tool communicates directly with the mouse over HID and works without requiring official Glorious Core software.
 
@@ -174,6 +175,12 @@ XY DPI independent: no
 [ ] DPI setting 6: 100 DPI	#FF4600
 
 RGB mode: Off
+
+Battery Status:
+  Level: 73%
+  Status: Discharging
+  Voltage: 3.64 V
+  [████████  ]
 ```
 
 ## Tips & Notes
